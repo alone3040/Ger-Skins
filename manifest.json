@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "name": "1번스킨",
+      "category": [
+        "UI(인터페이스)",
+        "교환창"
+      ],
+      "description": "UI(인터페이스) > 교환창 > 1번스킨",
+      "image": "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/UI%28%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%29/%EA%B5%90%ED%99%98%EC%B0%BD/1%EB%B2%88%EC%8A%A4%ED%82%A8/preview.png",
+      "target": "Online/GameSpr/trade",
+      "files": [
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/UI%28%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%29/%EA%B5%90%ED%99%98%EC%B0%BD/1%EB%B2%88%EC%8A%A4%ED%82%A8/TRADE_1.S32"
+      ]
+    },
+    {
       "name": "원본",
       "category": [
         "UI(인터페이스)",
