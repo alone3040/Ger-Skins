@@ -103,6 +103,74 @@
       "files": [
         "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/UI%28%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%29/%EC%B6%9C%EC%84%9D%EC%B0%BD/%EC%9B%90%EB%B3%B8/AttendanceEvent_1.S32"
       ]
+    },
+    {
+      "name": "원본",
+      "category": [
+        "본캐장비스킨",
+        "무기",
+        "2차남자캐릭",
+        "검"
+      ],
+      "description": "본캐장비스킨 > 무기 > 2차남자캐릭 > 검 > 원본",
+      "image": "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EB%82%A8%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%9B%90%EB%B3%B8/preview.png",
+      "target": "Online/JohapChar/spr",
+      "files": [
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EB%82%A8%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%9B%90%EB%B3%B8/MARHSD27A11HSU.AGF",
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EB%82%A8%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%9B%90%EB%B3%B8/MARHSD27N11HSU.AGF",
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EB%82%A8%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%9B%90%EB%B3%B8/MARHSD27WL1HSU.AGF"
+      ]
+    },
+    {
+      "name": "진칠지도",
+      "category": [
+        "본캐장비스킨",
+        "무기",
+        "2차남자캐릭",
+        "검"
+      ],
+      "description": "본캐장비스킨 > 무기 > 2차남자캐릭 > 검 > 진칠지도",
+      "image": "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EB%82%A8%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%A7%84%EC%B9%A0%EC%A7%80%EB%8F%84/preview.png",
+      "target": "Online/JohapChar/spr",
+      "files": [
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EB%82%A8%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%A7%84%EC%B9%A0%EC%A7%80%EB%8F%84/MARHSD27A11HSU.AGF",
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EB%82%A8%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%A7%84%EC%B9%A0%EC%A7%80%EB%8F%84/MARHSD27N11HSU.AGF",
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EB%82%A8%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%A7%84%EC%B9%A0%EC%A7%80%EB%8F%84/MARHSD27WL1HSU.AGF"
+      ]
+    },
+    {
+      "name": "원본",
+      "category": [
+        "본캐장비스킨",
+        "무기",
+        "2차여자캐릭",
+        "검"
+      ],
+      "description": "본캐장비스킨 > 무기 > 2차여자캐릭 > 검 > 원본",
+      "image": "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EC%97%AC%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%9B%90%EB%B3%B8/preview.png",
+      "target": "Online/JohapChar/spr",
+      "files": [
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EC%97%AC%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%9B%90%EB%B3%B8/WORHSD27A11HSU.AGF",
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EC%97%AC%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%9B%90%EB%B3%B8/WORHSD27N11HSU.AGF",
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EC%97%AC%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%9B%90%EB%B3%B8/WORHSD27WL1HSU.AGF"
+      ]
+    },
+    {
+      "name": "진칠지도",
+      "category": [
+        "본캐장비스킨",
+        "무기",
+        "2차여자캐릭",
+        "검"
+      ],
+      "description": "본캐장비스킨 > 무기 > 2차여자캐릭 > 검 > 진칠지도",
+      "image": "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EC%97%AC%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%A7%84%EC%B9%A0%EC%A7%80%EB%8F%84/preview.png",
+      "target": "Online/JohapChar/spr",
+      "files": [
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EC%97%AC%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%A7%84%EC%B9%A0%EC%A7%80%EB%8F%84/WORHSD27A11HSU.AGF",
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EC%97%AC%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%A7%84%EC%B9%A0%EC%A7%80%EB%8F%84/WORHSD27N11HSU.AGF",
+        "https://raw.githubusercontent.com/alone3040/Ger-Skins/main/%EB%B3%B8%EC%BA%90%EC%9E%A5%EB%B9%84%EC%8A%A4%ED%82%A8/%EB%AC%B4%EA%B8%B0/2%EC%B0%A8%EC%97%AC%EC%9E%90%EC%BA%90%EB%A6%AD/%EA%B2%80/%EC%A7%84%EC%B9%A0%EC%A7%80%EB%8F%84/WORHSD27WL1HSU.AGF"
+      ]
     }
   ]
 }
